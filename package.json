@@ -1,0 +1,19 @@
+{
+  "name": "comp308-w2018-lesson2",
+  "version": "1.0.0",
+  "description": "NodeJS Demo with Express MiddleWare for COMP308",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getgoh/comp308-w2018-lesson2.git"
+  },
+  "author": "Get Goh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getgoh/comp308-w2018-lesson2/issues"
+  },
+  "homepage": "https://github.com/getgoh/comp308-w2018-lesson2#readme"
+}
